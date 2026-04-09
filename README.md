@@ -60,13 +60,12 @@ UI: Material 3 / Jetpack Compose
 Dependency Injection
 
 
-## 📸 Screenshots
 ## 📸 App Screenshots
 
 <p align="center">
-  <img src="screenshots/login.png" width="32%" />
-  <img src="screenshots/vault.png" width="32%" />
-  <img src="screenshots/generator.png" width="32%" />
+  <img src="screenshots/login-password.png.png" width="32%" />
+  <img src="screenshots/vault.png.png" width="32%" />
+  <img src="screenshots/generator.png.png" width="32%" />
 </p>
 
 
