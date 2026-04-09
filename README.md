@@ -1,4 +1,6 @@
-##📋 Features
+
+#📋 Features
+
 Secure Encryption: Uses [π.χ. AES-256] to encrypt all sensitive data.
 
 Biometric Authentication: Support for Fingerprint and Face Unlock.
@@ -10,7 +12,9 @@ Search & Categorize: Easily organize your accounts by categories (Social, Work, 
 Offline Storage: Your data stays on your device—no cloud, no leaks.
 
 
+
 ##✨ Key Features
+
 🔐 Secure Vault: A centralized, encrypted local database to store all your sensitive credentials safely.
 
 🤖 Smart Password Generator: * Generates high-entropy passwords using a mix of uppercase, lowercase, numbers, and symbols.
