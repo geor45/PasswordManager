@@ -31,7 +31,15 @@ class LoginActivity : AppCompatActivity() {
             }, 500)
         }
 
-        btnLogin.setOnClickListener {
+        Secure Encryption: Uses [π.χ. AES-256] to encrypt all sensitive data.
+
+        Biometric Authentication: Support for Fingerprint and Face Unlock.
+
+        Password Generator: Create strong, customizable passwords on the fly.
+
+        Search & Categorize: Easily organize your accounts by categories (Social, Work, Finance).
+
+        Offline Storage: Your data stays on your device—no cloud, no leaks.     btnLogin.setOnClickListener {
             val enteredPin = etPin.text.toString()
 
             if (savedPin == null) {
