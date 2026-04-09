@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.PasswordManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#03DAC5</item>
+        <item name="colorOnPrimary">#000000</item>
+
+        <item name="android:statusBarColor">#121212</item>
+    </style>
+
+    <style name="Theme.PasswordManager" parent="Base.Theme.PasswordManager" />
+</resources>
