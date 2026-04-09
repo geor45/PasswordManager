@@ -1,5 +1,5 @@
 
-##📋 Features
+## 📋 Features 
 
 Secure Encryption: Uses [π.χ. AES-256] to encrypt all sensitive data.
 
@@ -13,7 +13,7 @@ Offline Storage: Your data stays on your device—no cloud, no leaks.
 
 
 
-##✨ Key Features
+## ✨ Key Features
 
 
 🔐 Secure Vault: A centralized, encrypted local database to store all your sensitive credentials safely.
@@ -36,7 +36,7 @@ Zero Knowledge: As the developer, I have no access to your data.
 
 
 
-##🛠 Future Enhancements (Roadmap)
+## 🛠 Future Enhancements (Roadmap)
 
 
 [ ] Dark Mode support for better user experience at night.
@@ -46,7 +46,7 @@ Zero Knowledge: As the developer, I have no access to your data.
 [ ] Export/Import encrypted backups.
 
 
-##🛠 Tech Stack
+## 🛠 Tech Stack
 
 
 Language: [Kotlin / Java]
@@ -60,13 +60,13 @@ UI: Material 3 / Jetpack Compose
 Dependency Injection
 
 
-##📸 Screenshots
+## 📸 Screenshots
 
 
 
 
 
-##🚀 How to Run
+## 🚀 How to Run
 
 
 Clone the repository:
@@ -78,6 +78,6 @@ Open the project in Android Studio.
 Build and run on an emulator or a physical device (API 24+ recommended).
 
 
-##🛡️ Security Note
+## 🛡️ Security Note
 
 This app is a portfolio project. While it uses industry-standard encryption practices, always exercise caution when storing real-world sensitive passwords in a self-made application.
