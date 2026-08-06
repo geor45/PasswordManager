@@ -63,7 +63,7 @@ Dependency Injection
 ## 📱 Application Preview
 
 <p align="center">
-  ### 🔐 Secure Login <img src="screenshots/login-password.png.png" width="32%" />
+  <img src="screenshots/login-password.png.png" width="32%" />
   <img src="screenshots/vault.png.png" width="32%" />
   <img src="screenshots/generator.png.png" width="32%" />
   <img src="screenshots/login-fingerprint.png.jpg" width="32%" />
